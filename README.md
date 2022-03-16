@@ -26,6 +26,9 @@ I'm Woojin Shin. I'm studying computer science at Inha University.
 #### Back-end
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gintooooonic&theme=default&show_icons=true)

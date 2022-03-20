@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Woojin Shin. I'm studying computer science at Inha University.
-
-- 🌱 I’m currently learning **Web front-end & back-end**
+- 🌱 I’m currently learning **Web development**
 - 📫 How to reach me: **[gintooooonic@gmail.com](mailto:gintooooonic@gmail.com)**
 - 🖖 Check out my blog: **[gintooooonic.github.io](https://gintooooonic.github.io/)**
 

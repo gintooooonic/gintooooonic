@@ -1,6 +1,5 @@
 ### 👋
 
-- Web Developer
 - [gintooooonic@gmail.com](mailto:gintooooonic@gmail.com)
 - [gintooooonic.github.io](https://gintooooonic.github.io/)
 

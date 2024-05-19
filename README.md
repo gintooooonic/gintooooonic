@@ -1,4 +1,4 @@
 ### 👋
 
-- [woodyshin.com](https://woodyshin.com/)
-- [me@woodyshin.com](mailto:me@woodyshin.com)
+- [wshin.me](https://wshin.me/)
+- [dev@wshin.me](mailto:dev@wshin.me)
